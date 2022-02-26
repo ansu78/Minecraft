@@ -16,5 +16,11 @@
     "name": "Dragoniteroar",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1593d2ac-2b19-32eb-8831-66379407c917",
+    "name": "Browdex",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
